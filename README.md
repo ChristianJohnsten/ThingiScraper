@@ -17,3 +17,7 @@ This is in it's very early stages.
       -o OUT_DIR, --out_dir OUT_DIR
                             The directory to save all the scraped data. It will be named the same as the Thingiverse design's name
       -re, --redownload     If a folder already exists with the same thing name, download it again.
+
+Example:
+
+    python main.py scrape_thing 1234567 -o "C:\Users\Admin\Documents\" -re
