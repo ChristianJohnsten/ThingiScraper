@@ -2,7 +2,7 @@
 # ThingiScraper
 A scraper for Thingiverse
 
-This is no longer in development as Thingiverse has changed the way their site works and I don't have time to keep up with it.
+### This is no longer in development as Thingiverse has changed the way their site works and I don't have time to keep up with it.
 
 ## Usage
 
